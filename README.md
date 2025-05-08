@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zwsut
 - 👀 I’m interested in programming, games, and learning new things.
-- 🌱 I’m currently learning web development, data science, and other programming.
+- 🌱 I’m currently learning web development, data science, and mobile development.
 - 📫 How to reach me zwsutherland@gmail.com
 - 😄 Pronouns: He/him
 
