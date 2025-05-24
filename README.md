@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zach Sutherland</h1>
-<h3 align="center">A developing developer from Massachusetts/</h3>
+<h1 align="center">Hi 👋, I'm Zach Sutherland!</h1>
+<h3 align="center">A developing developer from Massachusetts</h3>
 
-- 🌱 I’m currently learning **Kotlin, SQLite, TypeScript**
+- 🌱 I’m currently learning: **Kotlin, SQLite, TypeScript**
 
-- 📫 How to reach me **zwsutherland@gmail.com**
+- 📫 How to reach me: **zwsutherland@gmail.com**
 
-- ⚡ Fun fact **I love all games, but specially board games since they give my eyes a needed break from screens.**
+- ⚡ Fun fact: **I love all games, but especially board games since they give my eyes a needed break from screens.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
